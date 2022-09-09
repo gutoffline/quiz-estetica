@@ -12,9 +12,9 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] validação inicial
 - [X] produção(programação)
     - [X] criar repositório no github
-    - [] Criar a tela de perguntas
-    - [] Criar a tela inicial
-    - [] Criar a tela de resultados
+    - [ ] Criar a tela de perguntas
+    - [ ] Criar a tela inicial
+    - [ ] Criar a tela de resultados
 
 ## 📝 Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
